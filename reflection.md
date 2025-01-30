@@ -7,3 +7,6 @@ This section was fun to work with. The examples from the slides made it easy to 
 ### Accessibility
 
 The accessibility exercises were very interesting. It made it clear that you can write very barebones HTML but really, it's not useful for everyone.
+
+## CSS
+This is a fun section, I generally enjoy working with CSS. It can take some trial and error to get to the end goal because I am still new, but I enjoyed completing these exercises. The most difficult were the last two.
