@@ -10,3 +10,7 @@ The accessibility exercises were very interesting. It made it clear that you can
 
 ## CSS
 This is a fun section, I generally enjoy working with CSS. It can take some trial and error to get to the end goal because I am still new, but I enjoyed completing these exercises. The most difficult were the last two.
+
+## Flexbox
+
+I enjoyed this exercise with CSS. The flexbox is incredibly powerful, and I enjoyed the fractional element which makes creating layouts simply. 
