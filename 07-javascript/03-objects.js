@@ -2,21 +2,25 @@ let result = {};
 
 const insertItem = (key, value) => {
   // insertItem the property with key and value into result
-  return key;
+  result[key] = value;
+  return result;
 };
 
 const deleteItem = (key) => {
   // remove the property with key from result
+  delete result[key];
   return key;
 };
 
 const lookupItem = (key) => {
   // return the value from result that is associated with key
-  return key;
+  
+  return result[key];
 };
 
 const printItems = () => {
   // return a string of the concatenated key in result, separated by commas
+  return Object.keys(result).join(", ");
 };
 
 insertItem('hello', 'world');
